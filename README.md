@@ -4,7 +4,7 @@
 
 ### Задание 1
 
-Создан новый коммит файла [README.md](https://github.com/sergeMMikh/hw_git_25.10.2023/commit/96f3c4b310853cde07b4f94fed9c7f9c6e49eff7)
+Создан новый коммит файла [README.md](https://github.com/sergeMMikh/hw_git_25.10.2023/commit/af2c67f1befedbdafb02e2a383c198046103d9d7)
 
 ### Задание 2
 
