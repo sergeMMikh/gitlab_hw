@@ -9,13 +9,13 @@
 ### Задание 2
 
 Создан [gitignore](https://github.com/sergeMMikh/hw_git_25.10.2023/commit/7957dd37f6b1c04358bcabe8c1effa8a73ffafca)  файл 
-После замечения выполнил доработку 
+После замечения выполнил [доработку](#title1)
 
 ### Задание 3
 
 [Граф коммитов](https://github.com/sergeMMikh/hw_git_25.10.2023/network)
 
 
-### ***Доработка***
+### <a id="title1">***Доработка***</a>
 
 Внёс изменения в [gitignore](https://github.com/sergeMMikh/hw_git_25.10.2023/commit/cebaa6f4dd61052c30b484c0d54a8da2afcb29d3).
