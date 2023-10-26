@@ -13,3 +13,8 @@
 ### Задание 3
 
 [Граф коммитов](https://github.com/sergeMMikh/hw_git_25.10.2023/network)
+
+
+### ***Доработка***
+
+Внёс изменения в [gitignore](https://github.com/sergeMMikh/hw_git_25.10.2023/commit/cebaa6f4dd61052c30b484c0d54a8da2afcb29d3).
